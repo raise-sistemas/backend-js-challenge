@@ -1,6 +1,8 @@
 # backend-js-challenge
 
-Teste para candidatos backend javascript. Nós amamos JS e usamos para backend, frontend(React) e Mobile.
+Teste para candidatos backend javascript.
+Nós amamos JS e usamos para backend(Deno e Cloudflare), frontend(React) e Mobile.
+O objetivo é avaliar a capacidade do candidato de aprender uma tecnologia nova (Cloudflare worker + D1) e a habilidade de trabalhar com Javascript/Typescript puro, sem depender de bibliotecas externas. Entender como funciona o protocolo http, request, response, cabeçalhos, middleares, roteamento, etc.
 
 O desafio é implementar um contador de page views conforme o serviço: https://pageview.appjs.workers.dev/pageview/test
 
